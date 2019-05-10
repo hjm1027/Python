@@ -1,0 +1,9 @@
+shuren={'first_name':'HJM','last_name':'hu','age':'18','city':'wuhan'}
+print(shuren['first_name'],"\n")
+print(shuren['last_name'])
+print(shuren['age'])
+print(shuren["city"])
+shuren2={'first_name':'hjm','last_name':'HU','age':'17','city':'hubei'}
+shuren3={'first_name':'lbx','last_name':'li','age':'18','city':'WUHAN'}
+all_=[shuren,shuren2,shuren3]
+print(all_)
